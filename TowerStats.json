@@ -710,28 +710,28 @@
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 1.06
+                "SpeedBoost": 0.9
             },
             {
                 "Price": 1700,
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 1.12
+                "SpeedBoost": 0.85
             },
             {
                 "Price": 2200,
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 1.18
+                "SpeedBoost": 0.8
             },
             {
                 "Price": 2500,
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 1.24
+                "SpeedBoost": 0.76
             }
         ]
     },
