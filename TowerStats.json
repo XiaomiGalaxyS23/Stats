@@ -1365,6 +1365,45 @@
             }
         ]
     },
+	 "Shamrock Freddy": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://113081658705678",
+        "Rarity": "Secret",
+        "PlacePrice": 450,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.5,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 250,
+                "Cooldown": 2
+            },
+            {
+                "Price": 650,
+                "Range": 18,
+                "Damage": 350,
+                "Cooldown": 1.8
+            },
+            {
+                "Price": 950,
+                "Range": 20,
+                "Damage": 400,
+                "Cooldown": 1.7
+            },
+            {
+                "Price": 1350,
+                "Range": 22,
+                "Damage": 550,
+                "Cooldown": 1.5
+            }
+        ]
+    },
     "SpringTrap": {
         "Type": "Pierce",
         "Image": "rbxassetid://18356146630",
@@ -2477,7 +2516,7 @@
         "Image": "rbxassetid://106196259253782",
         "Rarity": "Secret",
         "PlacePrice": 6500,
-        "Max": 2,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2487,25 +2526,25 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 20,
+                "Damage": 10,
                 "Cooldown": 0.05
             },
             {
                 "Price": 7500,
                 "Range": 16,
-                "Damage": 22,
+                "Damage": 12,
                 "Cooldown": 0.05
             },
             {
                 "Price": 8500,
                 "Range": 18,
-                "Damage": 25,
+                "Damage": 15,
                 "Cooldown": 0.05
             },
             {
                 "Price": 9500,
                 "Range": 20,
-                "Damage": 35,
+                "Damage": 25,
                 "Cooldown": 0.05
             }
         ]
@@ -2525,34 +2564,34 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 45,
-                "Cooldown": 0.05
+                "Damage": 35,
+                "Cooldown": 0.15
             },
             {
                 "Price": 17500,
                 "Range": 15,
-                "Damage": 90,
-                "Cooldown": 0.05
+                "Damage": 55,
+                "Cooldown": 0.15
             },
             {
                 "Price": 18750,
                 "Range": 17,
-                "Damage": 115,
-                "Cooldown": 0.05
+                "Damage": 75,
+                "Cooldown": 0.15
             },
             {
                 "Price": 21345,
                 "Range": 23,
-                "Damage": 125,
-                "Cooldown": 0.05
+                "Damage": 100,
+                "Cooldown": 0.15
             }
         ]
     },
      "Aquatic Foxy": {
-        "Type": "Single",
+        "Type": "Cone Aoe",
         "Image": "rbxassetid://17270065249",
         "Rarity": "Nightmare",
-        "PlacePrice": 500,
+        "PlacePrice": 1050,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -2562,26 +2601,26 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 9,
-                "Damage": 45,
+                "Range": 14,
+                "Damage": 65,
                 "Cooldown": 0.6
             },
             {
-                "Price": 1250,
-                "Range": 10,
-                "Damage": 55,
-                "Cooldown": 0.5
-            },
-            {
-                "Price": 1450,
-                "Range": 14,
-                "Damage": 65,
-                "Cooldown": 0.5
-            },
-            {
                 "Price": 1750,
+                "Range": 15,
+                "Damage": 85,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 2150,
                 "Range": 17,
-                "Damage": 95,
+                "Damage": 115,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 2500,
+                "Range": 20,
+                "Damage": 145,
                 "Cooldown": 0.5
             }
         ]
