@@ -1505,7 +1505,7 @@
     "Withered Toy Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://WTCHICA",
-        "Rarity": "Mythical",
+        "Rarity": "Mythic",
         "PlacePrice": 4000,
         "Max": 2,
         "hitboxOffset": {
