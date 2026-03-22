@@ -1426,7 +1426,7 @@
     },
     "Withered Toy Freddy": {
         "Type": "Single",
-        "Image": "rbxassetid://WTFREDDY",
+        "Image": "rbxassetid://87364550480298",
         "Rarity": "Epic",
         "PlacePrice": 1200,
         "Max": 3,
@@ -1465,7 +1465,7 @@
 
     "Withered Toy Bonnie": {
         "Type": "Dual",
-        "Image": "rbxassetid://WTBONNIE",
+        "Image": "rbxassetid://103479834207489",
         "Rarity": "Secret",
         "PlacePrice": 2500,
         "Max": 2,
@@ -1504,7 +1504,7 @@
 
     "Withered Toy Chica": {
         "Type": "Explosion",
-        "Image": "rbxassetid://WTCHICA",
+        "Image": "rbxassetid://85503026073847",
         "Rarity": "Mythic",
         "PlacePrice": 4000,
         "Max": 2,
@@ -1543,7 +1543,7 @@
 
     "Withered Mangle": {
         "Type": "Explosion",
-        "Image": "rbxassetid://WTMANGLE",
+        "Image": "rbxassetid://110049105111552",
         "Rarity": "Secret",
         "PlacePrice": 8000,
         "Max": 2,
@@ -1582,7 +1582,7 @@
 
     "Withered Puppet": {
         "Type": "Pierce",
-        "Image": "rbxassetid://WTPUPPET",
+        "Image": "rbxassetid://98610308513140",
         "Rarity": "Secret",
         "PlacePrice": 9000,
         "Max": 2,
@@ -1621,7 +1621,7 @@
 
     "Withered Golden Toy Freddy": {
         "Type": "Single",
-        "Image": "rbxassetid://WTGOLDEN",
+        "Image": "rbxassetid://113460576422341",
         "Rarity": "Nightmare",
         "PlacePrice": 12000,
         "Max": 1,
@@ -1699,7 +1699,7 @@
 
     "Withered Spring Bonnie": {
         "Type": "Pierce",
-        "Image": "rbxassetid://WTSPRINGBONNIE",
+        "Image": "rbxassetid://109199473209199",
         "Rarity": "Nightmare",
         "PlacePrice": 15000,
         "Max": 1,
