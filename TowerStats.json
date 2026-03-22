@@ -1424,7 +1424,6 @@
             }
         ]
     },
-	{
        "Withered Toy Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://WITHERED_TOY_FREDDY",
@@ -1464,7 +1463,6 @@
             }
         ]
     },
-
     "Withered Toy Bonnie": {
         "Type": "Dual",
         "Image": "rbxassetid://WITHERED_TOY_BONNIE",
@@ -1503,7 +1501,6 @@
             }
         ]
     },
-
     "Withered Toy Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://WITHERED_TOY_CHICA",
@@ -1543,7 +1540,6 @@
             }
         ]
     },
-
     "Withered Mangle": {
         "Type": "Explosion",
         "Image": "rbxassetid://WITHERED_MANGLE",
@@ -1583,7 +1579,6 @@
             }
         ]
     },
-
     "Withered Puppet": {
         "Type": "Pierce",
         "Image": "rbxassetid://WITHERED_PUPPET",
@@ -1623,7 +1618,6 @@
             }
         ]
     },
-
     "Golden Toy Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://GOLDEN_TOY_FREDDY",
@@ -1662,7 +1656,6 @@
             }
         ]
     },
-
     "Withered Springbonnie": {
         "Type": "Pierce",
         "Image": "rbxassetid://WITHERED_SPRINGBONNIE",
@@ -1701,7 +1694,6 @@
             }
         ]
     },
-
     "Withered Fredbear": {
         "Type": "Single",
         "Image": "rbxassetid://WITHERED_FREDBEAR",
