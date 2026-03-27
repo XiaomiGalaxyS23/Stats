@@ -1207,7 +1207,7 @@
         ]
     },
     "Algae FredBear": {
-        "Type": "Single",
+        "Type": "Cone Aoe",
         "Image": "rbxassetid://18255264349",
         "Rarity": "Secret",
         "PlacePrice": 3000,
@@ -1239,8 +1239,46 @@
             {
                 "Price": 10000,
                 "Range": 25,
-                "Damage": 650,
-                "Cooldown": 1
+                "Damage": 625,
+                "Cooldown": 0.75
+            }
+        ]
+    },
+	   "UNC Fredbear": {
+        "Type": "Cone Aoe",
+        "Image": "rbxassetid://99535301933789",
+        "Rarity": "Nightmare",
+        "PlacePrice": 2500,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 14,
+                "Damage": 1250,
+                "Cooldown": 3
+            },
+            {
+                "Price": 3500,
+                "Range": 16,
+                "Damage": 1500,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 5500,
+                "Range": 17,
+                "Damage": 1850,
+                "Cooldown": 2.25
+            },
+            {
+                "Price": 7500,
+                "Range": 19,
+                "Damage": 2000,
+                "Cooldown": 2
             }
         ]
     },
@@ -1464,7 +1502,7 @@
     },
 
     "Withered Toy Bonnie": {
-        "Type": "Dual",
+        "Type": "Shock",
         "Image": "rbxassetid://103479834207489",
         "Rarity": "Secret",
         "PlacePrice": 2500,
@@ -1698,7 +1736,7 @@
     },
 
     "Withered Spring Bonnie": {
-        "Type": "Pierce",
+        "Type": "Cone Aoe",
         "Image": "rbxassetid://109199473209199",
         "Rarity": "Nightmare",
         "PlacePrice": 15000,
