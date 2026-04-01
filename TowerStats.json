@@ -1282,6 +1282,44 @@
             }
         ]
     },
+ "Bear-V": {
+        "Type": "Cone Aoe",
+        "Image": "rbxassetid://87005050997371",
+        "Rarity": "Nightmare",
+        "PlacePrice": 4444,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 17,
+                "Damage": 1750,
+                "Cooldown": 3
+            },
+            {
+                "Price": 5555,
+                "Range": 19,
+                "Damage": 2000,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 6666,
+                "Range": 20,
+                "Damage": 3000,
+                "Cooldown": 2.25
+            },
+            {
+                "Price": 7777,
+                "Range": 23,
+                "Damage": 5000,
+                "Cooldown": 1.5
+            }
+        ]
+    },
     "Hawaii Endo 02": {
         "Type": "Support",
         "Image": "rbxassetid://18255863130",
@@ -2197,6 +2235,44 @@
                 "Range": 21,
                 "Damage": 1100,
                 "Cooldown": 1
+            }
+        ]
+    },
+	 "Carteddy": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://105960077370456",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 21,
+                "Damage": 10000,
+                "Cooldown": 10
+            },
+            {
+                "Price": 2000,
+                "Range": 22,
+                "Damage": 15000,
+                "Cooldown": 7.5
+            },
+            {
+                "Price": 4050,
+                "Range": 23,
+                "Damage": 20000,
+                "Cooldown": 5.5
+            },
+            {
+                "Price": 6000,
+                "Range": 25,
+                "Damage": 25000,
+                "Cooldown": 3.75
             }
         ]
     },
