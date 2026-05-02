@@ -4,7 +4,7 @@
         "Image": "rbxassetid://16620053009",
         "Rarity": "Uncommon",
         "PlacePrice": 100,
-        "Max": 8,
+        "Max": 5,
         "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
