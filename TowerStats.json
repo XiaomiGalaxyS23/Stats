@@ -1561,11 +1561,11 @@
         ]
     },
     "Phantom Foxy": {
-        "Type": "Single",
+        "Type": "Exclusive Single",
         "Image": "rbxassetid://18356274992",
         "Rarity": "Rare",
-        "PlacePrice": 800,
-        "Max": 4,
+        "PlacePrice": 650,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1575,26 +1575,26 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 60,
+                "Damage": 160,
                 "Cooldown": 1
             },
             {
-                "Price": 1200,
+                "Price": 1000,
                 "Range": 18,
-                "Damage": 80,
-                "Cooldown": 1
+                "Damage": 190,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 1700,
+                "Range": 20,
+                "Damage": 230,
+                "Cooldown": 0.75
             },
             {
                 "Price": 2000,
                 "Range": 20,
-                "Damage": 125,
-                "Cooldown": 0.75
-            },
-            {
-                "Price": 3000,
-                "Range": 20,
-                "Damage": 200,
-                "Cooldown": 0.75
+                "Damage": 270,
+                "Cooldown": 0.65
             }
         ]
     },
@@ -1613,25 +1613,25 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 200,
+                "Damage": 300,
                 "Cooldown": 1.75
             },
             {
                 "Price": 20000,
                 "Range": 17,
-                "Damage": 350,
+                "Damage": 450,
                 "Cooldown": 1.5
             },
             {
                 "Price": 25000,
                 "Range": 19,
-                "Damage": 400,
+                "Damage": 600,
                 "Cooldown": 1
             },
             {
                 "Price": 30000,
                 "Range": 21,
-                "Damage": 625,
+                "Damage": 825,
                 "Cooldown": 1
             }
         ]
@@ -1651,31 +1651,31 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 17,
+                "Damage": 20,
                 "Cooldown": 0.05
             },
             {
                 "Price": 20000,
                 "Range": 22,
-                "Damage": 25,
+                "Damage": 30,
                 "Cooldown": 0.05
             },
             {
                 "Price": 30000,
                 "Range": 25,
-                "Damage": 30,
+                "Damage": 40,
                 "Cooldown": 0.05
             },
             {
                 "Price": 40000,
                 "Range": 30,
-                "Damage": 35,
+                "Damage": 50,
                 "Cooldown": 0.05
             }
         ]
     },
     "Phantom Balloon Boy": {
-        "Type": "Nuke",
+        "Type": "Exclusive Nuke",
         "Image": "rbxassetid://18356472602",
         "Rarity": "Secret",
         "PlacePrice": 7500,
@@ -1695,29 +1695,29 @@
             {
                 "Price": 10000,
                 "Range": 18,
-                "Damage": 700,
+                "Damage": 800,
                 "Cooldown": 3.5
             },
             {
                 "Price": 15000,
                 "Range": 22,
-                "Damage": 800,
+                "Damage": 1200,
                 "Cooldown": 3
             },
             {
                 "Price": 20000,
                 "Range": 25,
-                "Damage": 1000,
+                "Damage": 1500,
                 "Cooldown": 3
             }
         ]
     },
     "Phantom Gold Freddy": {
-        "Type": "Single",
+        "Type": "Exclusive Single",
         "Image": "rbxassetid://18363517791",
         "Rarity": "Mythic",
         "PlacePrice": 3000,
-        "Max": 4,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1739,13 +1739,13 @@
             {
                 "Price": 6000,
                 "Range": 20,
-                "Damage": 400,
+                "Damage": 500,
                 "Cooldown": 1.25
             },
             {
                 "Price": 9000,
                 "Range": 20,
-                "Damage": 550,
+                "Damage": 650,
                 "Cooldown": 1
             }
         ]
@@ -1774,21 +1774,21 @@
                 "Price": 1500,
                 "Range": 15,
                 "Damage": 100,
-                "Cooldown": 4,
+                "Cooldown": 3,
                 "Farm": 100
             },
             {
                 "Price": 2000,
                 "Range": 15,
                 "Damage": 100,
-                "Cooldown": 4,
+                "Cooldown": 2,
                 "Farm": 200
             },
             {
                 "Price": 3000,
                 "Range": 15,
                 "Damage": 100,
-                "Cooldown": 4,
+                "Cooldown": 1,
                 "Farm": 300
             }
         ]
@@ -1870,7 +1870,7 @@
         ]
     },
     "Amalgam": {
-        "Type": "Continuous Slow",
+        "Type": "Exclusive Continuous Slowing",
         "Image": "rbxassetid://18363541545",
         "Rarity": "Epic",
         "PlacePrice": 2000,
