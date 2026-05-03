@@ -933,6 +933,12 @@
             {
                 "Price": 2000,
                 "Range": 22,
+                "Damage": 50,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 2600,
+                "Range": 24,
                 "Damage": 75,
                 "Cooldown": 0.2
             }
