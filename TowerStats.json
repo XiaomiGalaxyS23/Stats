@@ -155,7 +155,7 @@
         ]
     },
     "Withered Chica": {
-        "Type": "Single",
+        "Type": "Exclusive Single",
         "Image": "rbxassetid://16632209265",
         "Rarity": "Rare",
         "PlacePrice": 800,
@@ -199,7 +199,7 @@
         ]
     },
     "Withered Foxy": {
-        "Type": "Dual",
+        "Type": "Exclusive Single",
         "Image": "rbxassetid://16632135968",
         "Rarity": "Epic",
         "PlacePrice": 2000,
@@ -236,15 +236,15 @@
                 "Cooldown": 0.5
             },
             {
-                "Price": 5000,
+                "Price": 6200,
                 "Range": 25,
-                "Damage": 500,
-                "Cooldown": 0.5
+                "Damage": 400,
+                "Cooldown": 0.4
             }
         ]
     },
     "Withered Freddy": {
-        "Type": "Continuous Single",
+        "Type": "Exclusive Continuous Single",
         "Image": "rbxassetid://16632239120",
         "Rarity": "Mythic",
         "PlacePrice": 5000,
@@ -274,13 +274,13 @@
                 "Cooldown": 0.05
             },
             {
-                "Price": 25000,
+                "Price": 20000,
                 "Range": 18,
                 "Damage": 36,
                 "Cooldown": 0.05
             },
             {
-                "Price": 25000,
+                "Price": 30000,
                 "Range": 18,
                 "Damage": 42,
                 "Cooldown": 0.05
@@ -288,7 +288,7 @@
         ]
     },
     "Withered Bonnie": {
-        "Type": "Continuous Single",
+        "Type": "Exclusive Continuous Single",
         "Image": "rbxassetid://16632217188",
         "Rarity": "Secret",
         "PlacePrice": 20000,
@@ -333,7 +333,7 @@
         ]
     },
     "Shadow Bonnie": {
-        "Type": "Continuous Full AOE",
+        "Type": "Exclusive Continuous Full AOE",
         "Image": "rbxassetid://16781197179",
         "Rarity": "Nightmare",
         "PlacePrice": 25000,
@@ -811,10 +811,10 @@
         ]
     },
     "Plane Boy": {
-        "Type": "Continuous Single",
+        "Type": "Premium Continuous Single",
         "Image": "rbxassetid://17689713814",
         "Rarity": "Secret",
-        "PlacePrice": 20000,
+        "PlacePrice": 15000,
         "Offset": 2,
         "Max": 2,
         "hitboxOffset": {
@@ -826,18 +826,24 @@
             {
                 "Price": 0,
                 "Range": 30,
+                "Damage": 40,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 20000,
+                "Range": 35,
                 "Damage": 50,
                 "Cooldown": 0.05
             },
             {
                 "Price": 30000,
-                "Range": 35,
+                "Range": 40,
                 "Damage": 60,
                 "Cooldown": 0.05
             },
             {
                 "Price": 40000,
-                "Range": 40,
+                "Range": 45,
                 "Damage": 70,
                 "Cooldown": 0.05
             },
@@ -1048,7 +1054,7 @@
         ]
     },
     "Summer Toy Bonnie": {
-        "Type": "Slowing Single",
+        "Type": "Exclusive Slowing Single",
         "Image": "rbxassetid://18255590026",
         "Rarity": "Rare",
         "PlacePrice": 800,
@@ -1095,7 +1101,7 @@
         ]
     },
     "Coco Boy": {
-        "Type": "Splash",
+        "Type": "Exclusive Splash",
         "Image": "rbxassetid://18256042312",
         "Rarity": "Mythic",
         "PlacePrice": 6000,
@@ -1172,7 +1178,7 @@
         ]
     },
     "Seven Seas Foxy": {
-        "Type": "Pierceing",
+        "Type": "Exclusive Pierceing",
         "Image": "rbxassetid://18255813345",
         "Rarity": "Secret",
         "PlacePrice": 7000,
@@ -1211,7 +1217,7 @@
         ]
     },
     "Leviathan Mangle": {
-        "Type": "Pierceing",
+        "Type": "Exclusive Pierceing",
         "Image": "rbxassetid://18256011276",
         "Rarity": "Nightmare",
         "PlacePrice": 10000,
@@ -1363,7 +1369,7 @@
         ]
     },
     "Hawaii Endo 02": {
-        "Type": "Range Booster",
+        "Type": "Exclusive Range Booster",
         "Image": "rbxassetid://18255863130",
         "Rarity": "Epic",
         "PlacePrice": 1000,
@@ -1451,7 +1457,7 @@
         ]
     },
     "Patriot Freddy": {
-        "Type": "Explosion",
+        "Type": "Exclusive Splash",
         "Image": "rbxassetid://18326604996",
         "Rarity": "Secret",
         "PlacePrice": 300,
