@@ -189,7 +189,7 @@
                 "Range": 10,
                 "Damage": 400,
                 "Cooldown": 0.85
-			},
+            },
             {
                 "Price": 3000,
                 "Range": 10,
@@ -234,7 +234,7 @@
                 "Range": 23,
                 "Damage": 400,
                 "Cooldown": 0.5
-			},
+            },
             {
                 "Price": 5000,
                 "Range": 25,
@@ -278,7 +278,7 @@
                 "Range": 18,
                 "Damage": 36,
                 "Cooldown": 0.05
-			},
+            },
             {
                 "Price": 25000,
                 "Range": 18,
@@ -323,7 +323,7 @@
                 "Range": 35,
                 "Damage": 250,
                 "Cooldown": 0.15
-			},
+            },
             {
                 "Price": 70000,
                 "Range": 38,
@@ -367,7 +367,7 @@
                 "Range": 16,
                 "Damage": 135,
                 "Cooldown": 0.1
-			},
+            },
             {
                 "Price": 87000,
                 "Range": 20,
@@ -719,7 +719,7 @@
                 "Range": 20,
                 "Damage": 850,
                 "Cooldown": 1
-			},
+            },
             {
                 "Price": 9000,
                 "Range": 22,
@@ -884,8 +884,7 @@
                 "Range": 13,
                 "Damage": 200,
                 "Cooldown": 1
-
-			},
+            },
             {
                 "Price": 2400,
                 "Range": 15,
@@ -1238,7 +1237,7 @@
             {
                 "Price": 15000,
                 "Range": 18,
-                "Damage": ,
+                "Damage": 750,
                 "Cooldown": 1
             },
             {
@@ -1287,7 +1286,7 @@
             }
         ]
     },
-	   "UNC Fredbear": {
+    "UNC Fredbear": {
         "Type": "Cone Aoe",
         "Image": "rbxassetid://99535301933789",
         "Rarity": "Nightmare",
@@ -1325,7 +1324,7 @@
             }
         ]
     },
- "Bear-V": {
+    "Bear-V": {
         "Type": "Cone Aoe",
         "Image": "rbxassetid://87005050997371",
         "Rarity": "Nightmare",
@@ -1442,7 +1441,7 @@
                 "Range": 43,
                 "Damage": 730,
                 "Cooldown": 3.5
-			},
+            },
             {
                 "Price": 3000,
                 "Range": 45,
@@ -1490,7 +1489,7 @@
             }
         ]
     },
-	 "Shamrock Freddy": {
+    "Shamrock Freddy": {
         "Type": "Pierce",
         "Image": "rbxassetid://113081658705678",
         "Rarity": "Secret",
@@ -1587,7 +1586,6 @@
             }
         ]
     },
-
     "Withered Toy Bonnie": {
         "Type": "Shock",
         "Image": "rbxassetid://103479834207489",
@@ -1626,7 +1624,6 @@
             }
         ]
     },
-
     "Withered Toy Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://85503026073847",
@@ -1665,7 +1662,6 @@
             }
         ]
     },
-
     "Withered Mangle": {
         "Type": "Explosion",
         "Image": "rbxassetid://110049105111552",
@@ -1704,7 +1700,6 @@
             }
         ]
     },
-
     "Withered Puppet": {
         "Type": "Pierce",
         "Image": "rbxassetid://98610308513140",
@@ -1743,7 +1738,6 @@
             }
         ]
     },
-
     "Withered Golden Toy Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://113460576422341",
@@ -1782,7 +1776,6 @@
             }
         ]
     },
-
     "Withered Fredbear": {
         "Type": "Single",
         "Image": "rbxassetid://WITHERED_FREDBEAR",
@@ -1821,7 +1814,6 @@
             }
         ]
     },
-
     "Withered Spring Bonnie": {
         "Type": "Cone Aoe",
         "Image": "rbxassetid://109199473209199",
@@ -2287,7 +2279,7 @@
             }
         ]
     },
-	 "Carteddy": {
+    "Carteddy": {
         "Type": "Pierce",
         "Image": "rbxassetid://105960077370456",
         "Rarity": "Secret",
@@ -2704,7 +2696,7 @@
             {
                 "Price": 15000,
                 "Range": 20,
-                "Damage":45,
+                "Damage": 45,
                 "Cooldown": 0.125,
                 "Ammo": 50,
                 "ReloadTime": 1.5
@@ -2985,7 +2977,7 @@
             }
         ]
     },
-	   "CXASFSFQWR": {
+    "CXASFSFQWR": {
         "Type": "AOE",
         "Image": "rbxassetid://106196259253782",
         "Rarity": "Secret",
@@ -3023,7 +3015,7 @@
             }
         ]
     },
- "INRAGED CXASFSFQWR": {
+    "INRAGED CXASFSFQWR": {
         "Type": "AOE",
         "Image": "rbxassetid://93234128976532",
         "Rarity": "Nightmare",
@@ -3061,7 +3053,7 @@
             }
         ]
     },
-     "Aquatic Foxy": {
+    "Aquatic Foxy": {
         "Type": "Cone Aoe",
         "Image": "rbxassetid://17270065249",
         "Rarity": "Nightmare",
