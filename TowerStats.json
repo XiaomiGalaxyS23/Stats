@@ -1873,7 +1873,7 @@
         "Type": "Exclusive Single Slowing",
         "Image": "rbxassetid://18363541545",
         "Rarity": "Epic",
-        "PlacePrice": 2000,
+        "PlacePrice": 3000,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -1884,28 +1884,28 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 0,
+                "Damage": 2,
                 "Cooldown": 0.05,
                 "Slow": 0.8
             },
             {
-                "Price": 2400,
+                "Price": 3400,
                 "Range": 17,
-                "Damage": 0,
+                "Damage": 4,
                 "Cooldown": 0.05,
                 "Slow": 0.7
             },
             {
-                "Price": 3000,
+                "Price": 4000,
                 "Range": 20,
-                "Damage": 0,
+                "Damage": 6,
                 "Cooldown": 0.05,
                 "Slow": 0.6
             },
             {
-                "Price": 4000,
+                "Price": 6500,
                 "Range": 25,
-                "Damage": 0,
+                "Damage": 10,
                 "Cooldown": 0.05,
                 "Slow": 0.5
             }
