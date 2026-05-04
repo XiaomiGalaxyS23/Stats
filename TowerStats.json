@@ -2486,7 +2486,7 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 15,
+                "Damage": 20,
                 "Cooldown": 0.25,
                 "SummonTime": 5,
                 "Health": 200,
@@ -2501,7 +2501,7 @@
             {
                 "Price": 1500,
                 "Range": 25,
-                "Damage": 20,
+                "Damage": 25,
                 "Cooldown": 0.25,
                 "SummonTime": 4,
                 "Health": 300,
@@ -2515,7 +2515,7 @@
             },
             {
                 "Price": 2000,
-                "Range": 20,
+                "Range": 30,
                 "Damage": 28,
                 "Cooldown": 0.25,
                 "SummonTime": 3,
@@ -2531,7 +2531,7 @@
             {
                 "Price": 3000,
                 "Range": 32,
-                "Damage": 30,
+                "Damage": 35,
                 "Cooldown": 0.25,
                 "SummonTime": 3,
                 "Health": 750,
@@ -2546,7 +2546,7 @@
             {
                 "Price": 4500,
                 "Range": 35,
-                "Damage": 30,
+                "Damage": 40,
                 "Cooldown": 0.25,
                 "SummonTime": 3,
                 "Health": 750,
