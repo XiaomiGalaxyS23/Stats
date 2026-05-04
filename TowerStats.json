@@ -2463,7 +2463,7 @@
                 "Damage": 2500,
                 "Cooldown": 5,
                 "SummonTime": 50,
-                "Health": 25000
+                "Health": 25000,
                 "WalkSpeed": 11,
                 "Unit": "TankCake",
                 "Offset": -1.5
