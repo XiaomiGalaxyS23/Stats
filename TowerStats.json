@@ -116,7 +116,7 @@
         ]
     },
     "Bonnie": {
-        "Type": "Continuous",
+        "Type": "Single",
         "Image": "rbxassetid://16620268084",
         "Rarity": "Mythic",
         "PlacePrice": 7500,
@@ -244,7 +244,7 @@
         ]
     },
     "Withered Freddy": {
-        "Type": "Exclusive Continuous Single",
+        "Type": "Exclusive Single",
         "Image": "rbxassetid://16632239120",
         "Rarity": "Mythic",
         "PlacePrice": 5000,
@@ -288,7 +288,7 @@
         ]
     },
     "Withered Bonnie": {
-        "Type": "Exclusive Continuous Single",
+        "Type": "Exclusive Single",
         "Image": "rbxassetid://16632217188",
         "Rarity": "Secret",
         "PlacePrice": 20000,
@@ -333,7 +333,7 @@
         ]
     },
     "Shadow Bonnie": {
-        "Type": "Exclusive Continuous Full AOE",
+        "Type": "Exclusive Full AOE",
         "Image": "rbxassetid://16781197179",
         "Rarity": "Nightmare",
         "PlacePrice": 25000,
@@ -532,10 +532,10 @@
         ]
     },
     "Shadow Freddy": {
-        "Type": "Continuous Full AOE",
+        "Type": "Full AOE",
         "Image": "rbxassetid://17270065249",
         "Rarity": "Secret",
-        "PlacePrice": 15000,
+        "PlacePrice": 12500,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -550,7 +550,7 @@
                 "Cooldown": 0.05
             },
             {
-                "Price": 25000,
+                "Price": 20000,
                 "Range": 14,
                 "Damage": 12,
                 "Cooldown": 0.05
@@ -772,7 +772,7 @@
         ]
     },
     "Endo 02": {
-        "Type": "Continuous Single",
+        "Type": "Single",
         "Image": "rbxassetid://17690383931",
         "Rarity": "Secret",
         "PlacePrice": 350,
@@ -811,7 +811,7 @@
         ]
     },
     "Plane Boy": {
-        "Type": "Premium Continuous Single",
+        "Type": "Premium Single",
         "Image": "rbxassetid://17689713814",
         "Rarity": "Secret",
         "PlacePrice": 15000,
@@ -1184,7 +1184,7 @@
         ]
     },
     "Seven Seas Foxy": {
-        "Type": "Exclusive Pierceing",
+        "Type": "Exclusive Piercing",
         "Image": "rbxassetid://18255813345",
         "Rarity": "Secret",
         "PlacePrice": 7000,
@@ -1223,7 +1223,7 @@
         ]
     },
     "Leviathan Mangle": {
-        "Type": "Exclusive Pierceing",
+        "Type": "Exclusive Piercing",
         "Image": "rbxassetid://18256011276",
         "Rarity": "Nightmare",
         "PlacePrice": 10000,
@@ -1503,7 +1503,7 @@
     },
 
     "SpringTrap": {
-        "Type": "Pierce",
+        "Type": "Piercing",
         "Image": "rbxassetid://18356146630",
         "Rarity": "Nightmare",
         "PlacePrice": 300,
@@ -1599,7 +1599,7 @@
         ]
     },
     "Phantom Chica": {
-        "Type": "Explosion",
+        "Type": "Splash",
         "Image": "rbxassetid://18356356760",
         "Rarity": "Secret",
         "PlacePrice": 15000,
@@ -1637,7 +1637,7 @@
         ]
     },
     "Phantom Freddy": {
-        "Type": "Continuous",
+        "Type": "Single",
         "Image": "rbxassetid://18363498934",
         "Rarity": "Secret",
         "PlacePrice": 15000,
@@ -1794,7 +1794,7 @@
         ]
     },
     "Phantom Mangle": {
-        "Type": "Continuous",
+        "Type": "Single",
         "Image": "rbxassetid://18363533024",
         "Rarity": "Nightmare",
         "PlacePrice": 20000,
@@ -1835,7 +1835,7 @@
         "Type": "Single",
         "Image": "rbxassetid://18363537562",
         "Rarity": "Secret",
-        "PlacePrice": 800,
+        "PlacePrice": 80,
         "Max": 4,
         "hitboxOffset": {
             "X": 0,
@@ -1850,19 +1850,19 @@
                 "Cooldown": 1
             },
             {
-                "Price": 1400,
+                "Price": 140,
                 "Range": 18,
                 "Damage": 125,
                 "Cooldown": 1
             },
             {
-                "Price": 1800,
+                "Price": 180,
                 "Range": 22,
                 "Damage": 160,
                 "Cooldown": 1
             },
             {
-                "Price": 2400,
+                "Price": 240,
                 "Range": 25,
                 "Damage": 250,
                 "Cooldown": 1
@@ -1870,7 +1870,7 @@
         ]
     },
     "Amalgam": {
-        "Type": "Exclusive Continuous Slowing",
+        "Type": "Exclusive Single Slowing",
         "Image": "rbxassetid://18363541545",
         "Rarity": "Epic",
         "PlacePrice": 2000,
@@ -1912,7 +1912,7 @@
         ]
     },
     "Phantom Puppet": {
-        "Type": "Pierce",
+        "Type": "Piercing",
         "Image": "rbxassetid://18363546528",
         "Rarity": "Secret",
         "PlacePrice": 15000,
