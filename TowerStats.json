@@ -1726,26 +1726,26 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
+                "Range": 16,
                 "Damage": 200,
                 "Cooldown": 1.5
             },
             {
                 "Price": 4000,
-                "Range": 18,
+                "Range": 17,
                 "Damage": 300,
                 "Cooldown": 1.25
             },
             {
                 "Price": 6000,
-                "Range": 20,
-                "Damage": 500,
+                "Range": 18,
+                "Damage": 400,
                 "Cooldown": 1.25
             },
             {
                 "Price": 9000,
                 "Range": 20,
-                "Damage": 650,
+                "Damage": 550,
                 "Cooldown": 1
             }
         ]
