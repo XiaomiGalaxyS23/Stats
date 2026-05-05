@@ -681,12 +681,6 @@
                 "Range": 300,
                 "Damage": 2000,
                 "Cooldown": 7
-            },
-            {
-                "Price": 0,
-                "Range": 300,
-                "Damage": 50000000,
-                "Cooldown": 0.4
             }
         ]
     },
@@ -2280,7 +2274,7 @@
         ]
     },
     "Major Freddy": {
-        "Type": "Single",
+        "Type": "Exclusive Single",
         "Image": "rbxassetid://18665224476",
         "Rarity": "Rare",
         "PlacePrice": 100,
@@ -2326,11 +2320,11 @@
         ]
     },
     "Enforcer Bonnie": {
-        "Type": "Continuous",
+        "Type": "Exclusive Single",
         "Image": "rbxassetid://18673234413",
         "Rarity": "Secret",
         "PlacePrice": 10000,
-        "Max": 2,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2372,7 +2366,7 @@
         ]
     },
     "Mercenary Foxy": {
-        "Type": "Continuous",
+        "Type": "Exclusive Single",
         "Image": "rbxassetid://18673129884",
         "Rarity": "Mythic",
         "PlacePrice": 2500,
@@ -2477,7 +2471,7 @@
         ]
     },
     "Commando Endo": {
-        "Type": "Continuous",
+        "Type": "Premium Summoner",
         "Image": "rbxassetid://18673468864",
         "Rarity": "Secret",
         "PlacePrice": 550,
@@ -2567,7 +2561,7 @@
         ]
     },
     "Rocketeer Mangle": {
-        "Type": "Explosion",
+        "Type": "Splash",
         "Image": "rbxassetid://18673926504",
         "Rarity": "Secret",
         "PlacePrice": 5000,
@@ -2606,11 +2600,11 @@
         ]
     },
     "Valkyrie Chica": {
-        "Type": "Continuous",
+        "Type": "Exclusive Single",
         "Image": "rbxassetid://18673330553",
         "Rarity": "Nightmare",
         "PlacePrice": 10000,
-        "Max": 2,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
