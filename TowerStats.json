@@ -303,31 +303,31 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 55,
+                "Damage": 150,
                 "Cooldown": 0.15
             },
             {
                 "Price": 30000,
                 "Range": 28,
-                "Damage": 100,
+                "Damage": 200,
                 "Cooldown": 0.15
             },
             {
                 "Price": 40000,
                 "Range": 33,
-                "Damage": 160,
+                "Damage": 260,
                 "Cooldown": 0.15
             },
             {
                 "Price": 55000,
                 "Range": 35,
-                "Damage": 250,
+                "Damage": 300,
                 "Cooldown": 0.15
             },
             {
                 "Price": 70000,
                 "Range": 38,
-                "Damage": 375,
+                "Damage": 400,
                 "Cooldown": 0.15
             }
         ]
