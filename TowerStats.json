@@ -2091,25 +2091,25 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 400,
+                "Damage": 100,
                 "Cooldown": 0.05
             },
             {
                 "Price": 5000,
                 "Range": 23,
-                "Damage": 500,
+                "Damage": 150,
                 "Cooldown": 0.05
             },
             {
                 "Price": 6000,
                 "Range": 25,
-                "Damage": 600,
+                "Damage": 200,
                 "Cooldown": 0.05
             },
             {
                 "Price": 7000,
                 "Range": 27,
-                "Damage": 750,
+                "Damage": 250,
                 "Cooldown": 0.05
             }
         ]
@@ -2267,7 +2267,7 @@
         "Type": "Exclusive Single",
         "Image": "rbxassetid://18665224476",
         "Rarity": "Rare",
-        "PlacePrice": 100,
+        "PlacePrice": 200,
         "Max": 4,
         "hitboxOffset": {
             "X": 0,
@@ -2284,7 +2284,7 @@
                 "ReloadTime": 1.5
             },
             {
-                "Price": 140,
+                "Price": 240,
                 "Range": 8,
                 "Damage": 20,
                 "Cooldown": 0.4,
@@ -2292,7 +2292,7 @@
                 "ReloadTime": 1.5
             },
             {
-                "Price": 200,
+                "Price": 300,
                 "Range": 9,
                 "Damage": 25,
                 "Cooldown": 0.35,
@@ -2300,7 +2300,7 @@
                 "ReloadTime": 1.5
             },
             {
-                "Price": 250,
+                "Price": 550,
                 "Range": 10,
                 "Damage": 30,
                 "Cooldown": 0.3,
@@ -2324,34 +2324,34 @@
             {
                 "Price": 0,
                 "Range": 18,
-                "Damage": 200,
+                "Damage": 350,
                 "Cooldown": 0.25,
-                "Ammo": 50,
-                "ReloadTime": 1.5
+                "Ammo": 40,
+                "ReloadTime": 6
             },
             {
                 "Price": 15000,
                 "Range": 20,
-                "Damage": 250,
+                "Damage": 400,
                 "Cooldown": 0.2,
                 "Ammo": 50,
-                "ReloadTime": 1.5
+                "ReloadTime": 5
             },
             {
                 "Price": 20000,
                 "Range": 23,
-                "Damage": 300,
+                "Damage": 450,
                 "Cooldown": 0.15,
                 "Ammo": 60,
-                "ReloadTime": 1.5
+                "ReloadTime": 4
             },
             {
                 "Price": 25000,
                 "Range": 26,
-                "Damage": 350,
+                "Damage": 500,
                 "Cooldown": 0.1,
-                "Ammo": 60,
-                "ReloadTime": 1.5
+                "Ammo": 75,
+                "ReloadTime": 3
             }
         ]
     },
@@ -2570,19 +2570,19 @@
                 "Cooldown": 3
             },
             {
-                "Price": 7000,
+                "Price": 3000,
                 "Range": 30,
                 "Damage": 450,
                 "Cooldown": 2.5
             },
             {
-                "Price": 10000,
+                "Price": 4000,
                 "Range": 35,
                 "Damage": 600,
                 "Cooldown": 2
             },
             {
-                "Price": 15000,
+                "Price": 5000,
                 "Range": 40,
                 "Damage": 750,
                 "Cooldown": 1.5
@@ -2668,12 +2668,12 @@
         ]
     },
     "Tarnished Spring Bonnie": {
-        "Type": "Melee",
+        "Type": "Cone AOE",
         "Image": "rbxassetid://18777411515",
         "Rarity": "Secret",
         "PlacePrice": 600,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2682,31 +2682,31 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
+                "Range": 10,
                 "Damage": 100,
                 "Cooldown": 0.8
             },
             {
                 "Price": 800,
-                "Range": 16,
+                "Range": 11,
                 "Damage": 120,
                 "Cooldown": 0.7
             },
             {
                 "Price": 1200,
-                "Range": 17,
+                "Range": 12,
                 "Damage": 140,
                 "Cooldown": 0.6
             },
             {
                 "Price": 1600,
-                "Range": 18,
+                "Range": 13,
                 "Damage": 160,
                 "Cooldown": 0.5
             },
             {
                 "Price": 2000,
-                "Range": 20,
+                "Range": 15,
                 "Damage": 180,
                 "Cooldown": 0.4
             }
