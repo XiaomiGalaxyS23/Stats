@@ -1226,7 +1226,7 @@
         "Type": "Exclusive Piercing",
         "Image": "rbxassetid://18256011276",
         "Rarity": "Nightmare",
-        "PlacePrice": 10000,
+        "PlacePrice": 15000,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -1241,19 +1241,19 @@
                 "Cooldown": 2
             },
             {
-                "Price": 12000,
+                "Price": 20000,
                 "Range": 15,
                 "Damage": 500,
                 "Cooldown": 1.5
             },
             {
-                "Price": 15000,
+                "Price": 35000,
                 "Range": 18,
                 "Damage": 750,
                 "Cooldown": 1
             },
             {
-                "Price": 20000,
+                "Price": 45000,
                 "Range": 20,
                 "Damage": 1250,
                 "Cooldown": 0.5
