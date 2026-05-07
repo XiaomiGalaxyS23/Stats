@@ -1650,7 +1650,7 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
+                "Range": 200,
                 "Damage": 1500,
                 "Cooldown": 0.2
             },
@@ -1716,7 +1716,7 @@
         "Type": "Exclusive Single",
         "Image": "rbxassetid://18363517791",
         "Rarity": "Mythic",
-        "PlacePrice": 4000,
+        "PlacePrice": 3000,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -1731,7 +1731,7 @@
                 "Cooldown": 1.5
             },
             {
-                "Price": 5000,
+                "Price": 4000,
                 "Range": 17,
                 "Damage": 300,
                 "Cooldown": 1.25
@@ -1743,7 +1743,7 @@
                 "Cooldown": 1.25
             },
             {
-                "Price": 10000,
+                "Price": 9000,
                 "Range": 20,
                 "Damage": 550,
                 "Cooldown": 1
@@ -2295,7 +2295,7 @@
                 "Price": 200,
                 "Range": 9,
                 "Damage": 25,
-                "Cooldown": 0.3,
+                "Cooldown": 0.35,
                 "Ammo": 30,
                 "ReloadTime": 1.5
             },
