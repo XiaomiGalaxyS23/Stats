@@ -2277,32 +2277,32 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 18,
-                "Damage": 20,
+                "Range": 8,
+                "Damage": 15,
                 "Cooldown": 0.5,
                 "Ammo": 30,
                 "ReloadTime": 1.5
             },
             {
                 "Price": 140,
-                "Range": 20,
-                "Damage": 25,
+                "Range": 8,
+                "Damage": 20,
                 "Cooldown": 0.4,
                 "Ammo": 30,
                 "ReloadTime": 1.5
             },
             {
                 "Price": 200,
-                "Range": 22,
-                "Damage": 30,
+                "Range": 9,
+                "Damage": 25,
                 "Cooldown": 0.3,
                 "Ammo": 30,
                 "ReloadTime": 1.5
             },
             {
                 "Price": 250,
-                "Range": 25,
-                "Damage": 40,
+                "Range": 10,
+                "Damage": 30,
                 "Cooldown": 0.3,
                 "Ammo": 30,
                 "ReloadTime": 1.5
