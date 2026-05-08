@@ -1261,10 +1261,10 @@
         ]
     },
     "Algae FredBear": {
-        "Type": "Cone Aoe",
+        "Type": "Cone AOE",
         "Image": "rbxassetid://18255264349",
         "Rarity": "Secret",
-        "PlacePrice": 3000,
+        "PlacePrice": 2000,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -1279,19 +1279,19 @@
                 "Cooldown": 2
             },
             {
-                "Price": 5000,
+                "Price": 3000,
                 "Range": 18,
                 "Damage": 350,
                 "Cooldown": 1.5
             },
             {
-                "Price": 7000,
+                "Price": 4000,
                 "Range": 20,
                 "Damage": 500,
                 "Cooldown": 1.25
             },
             {
-                "Price": 10000,
+                "Price": 5000,
                 "Range": 25,
                 "Damage": 625,
                 "Cooldown": 0.75
