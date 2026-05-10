@@ -1271,7 +1271,7 @@
         "Type": "Cone AOE",
         "Image": "rbxassetid://18255264349",
         "Rarity": "Secret",
-        "PlacePrice": 2000,
+        "PlacePrice": 15000,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -1281,27 +1281,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 250,
-                "Cooldown": 2
-            },
-            {
-                "Price": 3000,
-                "Range": 18,
-                "Damage": 350,
-                "Cooldown": 1.5
-            },
-            {
-                "Price": 4000,
                 "Range": 20,
                 "Damage": 500,
-                "Cooldown": 1.25
+                "Cooldown": 4.5
             },
             {
-                "Price": 5000,
-                "Range": 25,
-                "Damage": 625,
-                "Cooldown": 0.75
+                "Price": 20000,
+                "Range": 24,
+                "Damage": 1000,
+                "Cooldown": 4
+            },
+            {
+                "Price": 25000,
+                "Range": 28,
+                "Damage": 1500,
+                "Cooldown": 3.5
+            },
+            {
+                "Price": 30000,
+                "Range": 35,
+                "Damage": 2000,
+                "Cooldown": 3
             }
         ]
     },
