@@ -1194,7 +1194,7 @@
         "Type": "Piercing",
         "Image": "rbxassetid://18255813345",
         "Rarity": "Secret",
-        "PlacePrice": 7000,
+        "PlacePrice": 5000,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -1210,13 +1210,13 @@
                 "Cooldown": 3
             },
             {
-                "Price": 12000,
+                "Price": 7000,
                 "Range": 27,
                 "Damage": 490,
                 "Cooldown": 2.5
             },
             {
-                "Price": 15000,
+                "Price": 12000,
                 "Range": 30,
                 "Damage": 580,
                 "Cooldown": 2
