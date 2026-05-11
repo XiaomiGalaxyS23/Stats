@@ -1425,7 +1425,7 @@
         ]
     },
       "Sun Bathing Toy Chica": {
-        "Type": "Range Booster",
+        "Type": "Damage + Range Booster",
         "Image": "rbxassetid://101562420633845",
         "Rarity": "Secret",
         "PlacePrice": 1500,
