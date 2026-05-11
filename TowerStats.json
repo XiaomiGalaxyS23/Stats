@@ -1067,7 +1067,7 @@
         ]
     },
     "Summer Toy Bonnie": {
-        "Type": "Slowing Single",
+        "Type": "Single Slow",
         "Image": "rbxassetid://18255590026",
         "Rarity": "Rare",
         "PlacePrice": 800,
@@ -1084,7 +1084,7 @@
                 "Range": 15,
                 "Damage": 150,
                 "Cooldown": 1,
-                "Slow": 0.70,
+                "Slow": 0.90,
                 "SlowTime": 1.05
             },
             {
@@ -1092,7 +1092,7 @@
                 "Range": 16,
                 "Damage": 200,
                 "Cooldown": 0.9,
-                "Slow": 0.70,
+                "Slow": 0.80,
                 "SlowTime": 1.05
             },
             {
@@ -1924,7 +1924,7 @@
         ]
     },
     "Amalgam": {
-        "Type": "Single Slowing",
+        "Type": "Single Slow",
         "Image": "rbxassetid://18363541545",
         "Rarity": "Epic",
         "PlacePrice": 3000,
