@@ -921,31 +921,31 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
+                "Range": 15,
                 "Damage": 35,
                 "Cooldown": 0.6
             },
             {
                 "Price": 1200,
-                "Range": 22,
+                "Range": 118,
                 "Damage": 40,
                 "Cooldown": 0.5
             },
             {
                 "Price": 1600,
-                "Range": 24,
-                "Damage": 45,
+                "Range": 20,
+                "Damage": 50,
                 "Cooldown": 0.4
             },
             {
                 "Price": 2200,
-                "Range": 26,
-                "Damage": 55,
+                "Range": 22,
+                "Damage": 60,
                 "Cooldown": 0.3
             },
             {
-                "Price": 2750,
-                "Range": 30,
+                "Price": 3000,
+                "Range": 25,
                 "Damage": 75,
                 "Cooldown": 0.2
             }
