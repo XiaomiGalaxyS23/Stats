@@ -1581,7 +1581,7 @@
         "Image": "rbxassetid://18363471703",
         "Rarity": "Epic",
         "PlacePrice": 2000,
-        "Max": 3,
+        "Max": 5,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1591,25 +1591,25 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 70,
+                "Damage": 100,
                 "Cooldown": 1
+            },
+            {
+                "Price": 1000,
+                "Range": 18,
+                "Damage": 150,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 2000,
+                "Range": 20,
+                "Damage": 200,
+                "Cooldown": 0.85
             },
             {
                 "Price": 3000,
-                "Range": 18,
-                "Damage": 90,
-                "Cooldown": 1
-            },
-            {
-                "Price": 4000,
                 "Range": 20,
-                "Damage": 130,
-                "Cooldown": 0.75
-            },
-            {
-                "Price": 5000,
-                "Range": 20,
-                "Damage": 220,
+                "Damage": 250,
                 "Cooldown": 0.75
             }
         ]
