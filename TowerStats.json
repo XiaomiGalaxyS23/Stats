@@ -736,7 +736,7 @@
         ]
     },
     "Endo": {
-        "Type": "Cooldown Booster",
+        "Type": "Damage Booster",
         "Image": "rbxassetid://17851638702",
         "Rarity": "Secret",
         "PlacePrice": 1000,
@@ -760,21 +760,21 @@
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "SpeedBoost": 0.85
+                "DamageBoost": 0.85
             },
             {
                 "Price": 2200,
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "SpeedBoost": 0.8
+                "DamageBoost": 0.8
             },
             {
                 "Price": 2500,
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "SpeedBoost": 0.75
+                "DamageBoost": 0.75
             }
         ]
     },
