@@ -1281,27 +1281,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 1000,
-                "Cooldown": 4.5
+                "Range": 11,
+                "Damage": 250,
+                "Cooldown": 0.75
             },
             {
                 "Price": 50000,
-                "Range": 25,
-                "Damage": 2000,
-                "Cooldown": 4
+                "Range": 12,
+                "Damage": 500,
+                "Cooldown": 0.6
             },
             {
                 "Price": 70000,
-                "Range": 30,
-                "Damage": 3000,
-                "Cooldown": 3.5
+                "Range": 13,
+                "Damage": 750,
+                "Cooldown": 0.5
             },
             {
                 "Price": 90000,
-                "Range": 35,
-                "Damage": 4000,
-                "Cooldown": 3
+                "Range": 15,
+                "Damage": 1000,
+                "Cooldown": 0.4
             }
         ]
     },
