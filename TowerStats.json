@@ -1155,7 +1155,7 @@
         "Type": "Splash",
         "Image": "rbxassetid://18256363652",
         "Rarity": "Mythic",
-        "PlacePrice": 1000,
+        "PlacePrice": 2000,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -1171,19 +1171,19 @@
                 "Cooldown": 5
             },
             {
-                "Price": 2000,
+                "Price": 1000,
                 "Range": 15,
                 "Damage": 350,
                 "Cooldown": 4.5
             },
             {
-                "Price": 3500,
+                "Price": 2000,
                 "Range": 15,
                 "Damage": 400,
                 "Cooldown": 4
             },
             {
-                "Price": 5000,
+                "Price": 3000,
                 "Range": 15,
                 "Damage": 550,
                 "Cooldown": 3
