@@ -866,7 +866,7 @@
         "Type": "Premium Full AOE",
         "Image": "rbxassetid://17689695988",
         "Rarity": "Secret",
-        "PlacePrice": 400,
+        "PlacePrice": 450,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -902,7 +902,7 @@
                 "Price": 2400,
                 "Range": 10,
                 "Damage": 140,
-                "Cooldown": 0.8
+                "Cooldown": 1
             }
         ]
     },
