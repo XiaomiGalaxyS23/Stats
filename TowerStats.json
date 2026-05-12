@@ -1230,7 +1230,7 @@
         ]
     },
     "Leviathan Mangle": {
-        "Type": "Piercing",
+        "Type": "Pierce",
         "Image": "rbxassetid://18256011276",
         "Rarity": "Nightmare",
         "PlacePrice": 15000,
@@ -2047,7 +2047,7 @@
         ]
     },
     "Bounded Shadow": {
-        "Type": "Piercing",
+        "Type": "Pierce",
         "Image": "rbxassetid://18363555442",
         "Rarity": "Nightmare",
         "PlacePrice": 17500,
