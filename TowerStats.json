@@ -2050,7 +2050,7 @@
         "Type": "Piercing",
         "Image": "rbxassetid://18363555442",
         "Rarity": "Nightmare",
-        "PlacePrice": 12500,
+        "PlacePrice": 17500,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -2065,21 +2065,21 @@
                 "Cooldown": 3
             },
             {
-                "Price": 15000,
+                "Price": 35000,
                 "Range": 18,
                 "Damage": 1200,
+                "Cooldown": 2.75
+            },
+            {
+                "Price": 47000,
+                "Range": 20,
+                "Damage": 1700,
                 "Cooldown": 2.5
             },
             {
-                "Price": 17000,
-                "Range": 20,
-                "Damage": 1700,
-                "Cooldown": 2.25
-            },
-            {
-                "Price": 22000,
+                "Price": 60000,
                 "Range": 22,
-                "Damage": 2200,
+                "Damage": 1700,
                 "Cooldown": 2
             }
         ]
