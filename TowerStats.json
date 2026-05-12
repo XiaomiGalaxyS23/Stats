@@ -1517,10 +1517,10 @@
         ]
     },
     "Patriot Freddy": {
-        "Type": "Exclusive Splash",
+        "Type": "Splash",
         "Image": "rbxassetid://18326604996",
         "Rarity": "Secret",
-        "PlacePrice": 300,
+        "PlacePrice": 500,
         "Max": 4,
         "hitboxOffset": {
             "X": 0,
@@ -1536,19 +1536,19 @@
                 "Cooldown": 4
             },
             {
-                "Price": 500,
+                "Price": 800,
                 "Range": 18,
                 "Damage": 150,
                 "Cooldown": 3.8
             },
             {
-                "Price": 800,
+                "Price": 1500,
                 "Range": 20,
                 "Damage": 200,
                 "Cooldown": 3.7
             },
             {
-                "Price": 1200,
+                "Price": 2200,
                 "Range": 22,
                 "Damage": 250,
                 "Cooldown": 3.5
