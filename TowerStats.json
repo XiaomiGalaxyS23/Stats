@@ -1412,7 +1412,7 @@
         ]
     },
       "Sun Bathing Toy Chica": {
-        "Type": "Damage + Range Booster",
+        "Type": "Cooldown + Range Booster",
         "Image": "rbxassetid://101562420633845",
         "Rarity": "Secret",
         "PlacePrice": 1500,
@@ -1429,32 +1429,32 @@
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.15,
-                "CooldownBoost": 0.8
+                "RangeBoost": 1.05,
+                "CooldownBoost": 0.85
             },
             {
                 "Price": 1700,
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.2,
-                "CooldownBoost": 0.7
+                "RangeBoost": 1.1,
+                "CooldownBoost": 0.8
             },
             {
                 "Price": 1900,
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.25,
-                "CooldownBoost": 0.65
+                "RangeBoost": 1.15,
+                "CooldownBoost": 0.75
             },
             {
                 "Price": 2300,
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.3,
-                "CooldownBoost": 0.6
+                "RangeBoost": 1.2,
+                "CooldownBoost": 0.7
             }
         ]
     },
