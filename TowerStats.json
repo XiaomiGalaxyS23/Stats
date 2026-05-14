@@ -2,7 +2,7 @@
     "Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://16620053009",
-        "Rarity": "Uncommon",
+        "Rarity": "Nightmare",
         "PlacePrice": 100,
         "Max": 4,
         "Offset": 0.3,
@@ -1264,7 +1264,7 @@
     "Algae FredBear": {
         "Type": "Single",
         "Image": "rbxassetid://18255264349",
-        "Rarity": "Secret",
+        "Rarity": "Nightnare",
         "PlacePrice": 30000,
         "Max": 3,
         "hitboxOffset": {
