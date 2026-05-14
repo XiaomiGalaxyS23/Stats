@@ -787,26 +787,26 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 20,
+                "Range": 18,
+                "Damage": 25,
                 "Cooldown": 0.15
             },
             {
                 "Price": 700,
-                "Range": 25,
+                "Range": 20,
                 "Damage": 35,
                 "Cooldown": 0.15
             },
             {
                 "Price": 1300,
-                "Range": 30,
-                "Damage": 55,
+                "Range": 25,
+                "Damage": 40,
                 "Cooldown": 0.15
             },
             {
                 "Price": 2000,
                 "Range": 35,
-                "Damage": 75,
+                "Damage": 45,
                 "Cooldown": 0.15
             }
         ]
@@ -906,7 +906,7 @@
         "Rarity": "Secret",
         "PlacePrice": 400,
         "Offset": 0.55,
-        "Max": 4,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -916,19 +916,19 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 35,
+                "Damage": 45,
                 "Cooldown": 0.6
             },
             {
                 "Price": 900,
                 "Range": 18,
-                "Damage": 40,
+                "Damage": 50,
                 "Cooldown": 0.5
             },
             {
                 "Price": 1200,
                 "Range": 20,
-                "Damage": 50,
+                "Damage": 55,
                 "Cooldown": 0.4
             },
             {
@@ -940,7 +940,7 @@
             {
                 "Price": 2000,
                 "Range": 25,
-                "Damage": 75,
+                "Damage": 65,
                 "Cooldown": 0.2
             }
         ]
@@ -2129,7 +2129,7 @@
         "Rarity": "Secret",
         "PlacePrice": 4000,
         "Offset": 0.45,
-        "Max": 2,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
