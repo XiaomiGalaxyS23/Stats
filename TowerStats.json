@@ -616,7 +616,7 @@
         ]
     },
     "Puppet": {
-        "Type": "Piercing",
+        "Type": "Pierce",
         "Image": "rbxassetid://17802016570",
         "Rarity": "Secret",
         "PlacePrice": 7500,
