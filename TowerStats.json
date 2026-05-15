@@ -636,13 +636,13 @@
             },
             {
                 "Price": 10000,
-                "Range": 55,
+                "Range": 65,
                 "Damage": 3333,
                 "Cooldown": 9
             },
             {
                 "Price": 15000,
-                "Range": 65,
+                "Range": 85,
                 "Damage": 4444,
                 "Cooldown": 8
             },
