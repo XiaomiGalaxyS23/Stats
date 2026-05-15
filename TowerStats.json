@@ -2046,19 +2046,19 @@
                 "Cooldown": 3
             },
             {
-                "Price": 35000,
+                "Price": 25000,
                 "Range": 18,
                 "Damage": 1200,
                 "Cooldown": 2.75
             },
             {
-                "Price": 47000,
+                "Price": 30000,
                 "Range": 20,
                 "Damage": 1700,
                 "Cooldown": 2.5
             },
             {
-                "Price": 60000,
+                "Price": 40000,
                 "Range": 22,
                 "Damage": 1700,
                 "Cooldown": 2
