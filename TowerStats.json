@@ -1438,7 +1438,7 @@
         "Type": "Premium Single",
         "Image": "rbxassetid://18258392627",
         "Rarity": "Secret",
-        "PlacePrice": 1200,
+        "PlacePrice": 2000,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -1460,19 +1460,19 @@
                 "Cooldown": 4.25
             },
             {
-                "Price": 1800,
+                "Price": 1000,
                 "Range": 41,
                 "Damage": 850,
                 "Cooldown": 4
             },
             {
-                "Price": 2300,
+                "Price": 1500,
                 "Range": 43,
                 "Damage": 1000,
                 "Cooldown": 3.5
             },
             {
-                "Price": 3000,
+                "Price": 2000,
                 "Range": 45,
                 "Damage": 1200,
                 "Cooldown": 3
