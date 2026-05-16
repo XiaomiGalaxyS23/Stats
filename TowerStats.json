@@ -1,6 +1,6 @@
 {
     "Freddy": {
-        "Type": "Single",
+        "Type": "4P Single",
         "Image": "rbxassetid://16620053009",
         "Rarity": "Uncommon",
         "PlacePrice": 100,
@@ -39,7 +39,7 @@
         ]
     },
     "Chica": {
-        "Type": "Splash",
+        "Type": "2P Splash",
         "Image": "rbxassetid://16620303027",
         "Rarity": "Uncommon",
         "PlacePrice": 200,
@@ -77,7 +77,7 @@
         ]
     },
     "Foxy": {
-        "Type": "Single",
+        "Type": "5P Single",
         "Image": "rbxassetid://16620218689",
         "Rarity": "Rare",
         "PlacePrice": 300,
@@ -116,7 +116,7 @@
         ]
     },
     "Bonnie": {
-        "Type": "Single",
+        "Type": "3P Single",
         "Image": "rbxassetid://16620268084",
         "Rarity": "Mythic",
         "PlacePrice": 7500,
@@ -155,7 +155,7 @@
         ]
     },
     "Withered Chica": {
-        "Type": "Single",
+        "Type": "2P Single",
         "Image": "rbxassetid://16632209265",
         "Rarity": "Rare",
         "PlacePrice": 800,
@@ -193,7 +193,7 @@
         ]
     },
     "Withered Foxy": {
-        "Type": "Single",
+        "Type": "2P Single",
         "Image": "rbxassetid://16632135968",
         "Rarity": "Epic",
         "PlacePrice": 1700,
@@ -232,7 +232,7 @@
         ]
     },
     "Withered Freddy": {
-        "Type": "Single",
+        "Type": "2P Single",
         "Image": "rbxassetid://16632239120",
         "Rarity": "Mythic",
         "PlacePrice": 5000,
@@ -270,7 +270,7 @@
         ]
     },
     "Withered Bonnie": {
-        "Type": "Single",
+        "Type": "1P Single",
         "Image": "rbxassetid://16632217188",
         "Rarity": "Secret",
         "PlacePrice": 20000,
@@ -309,7 +309,7 @@
         ]
     },
     "Shadow Bonnie": {
-        "Type": "Full AOE",
+        "Type": "2P Full AOE",
         "Image": "rbxassetid://16781197179",
         "Rarity": "Nightmare",
         "PlacePrice": 25000,
@@ -347,7 +347,7 @@
         ]
     },
     "Toy Freddy": {
-        "Type": "Single",
+        "Type": "3P Single",
         "Image": "rbxassetid://16781095520",
         "Rarity": "Rare",
         "PlacePrice": 300,
@@ -386,7 +386,7 @@
         ]
     },
     "Toy Bonnie": {
-        "Type": "Single",
+        "Type": "3P Single",
         "Image": "rbxassetid://16780983603",
         "Rarity": "Epic",
         "PlacePrice": 1000,
@@ -424,7 +424,7 @@
         ]
     },
     "Toy Chica": {
-        "Type": "Splash",
+        "Type": "2P Splash",
         "Image": "rbxassetid://16781017510",
         "Rarity": "Epic",
         "PlacePrice": 1250,
@@ -463,7 +463,7 @@
         ]
     },
     "Mangle": {
-        "Type": "Splash",
+        "Type": "3P Splash",
         "Image": "rbxassetid://16781119726",
         "Rarity": "Secret",
         "PlacePrice": 12500,
@@ -502,7 +502,7 @@
         ]
     },
     "Shadow Freddy": {
-        "Type": "Full AOE",
+        "Type": "2P Full AOE",
         "Image": "rbxassetid://17270065249",
         "Rarity": "Secret",
         "PlacePrice": 12500,
@@ -540,7 +540,7 @@
         ]
     },
     "Balloon Boy": {
-        "Type": "Splash",
+        "Type": "3P Splash",
         "Image": "rbxassetid://16781077553",
         "Rarity": "Mythic",
         "PlacePrice": 5000,
@@ -578,7 +578,7 @@
         ]
     },
     "Golden Freddy": {
-        "Type": "Single",
+        "Type": "1P Single",
         "Image": "rbxassetid://17629034232",
         "Rarity": "Mythic",
         "PlacePrice": 4000,
@@ -616,7 +616,7 @@
         ]
     },
     "Puppet": {
-        "Type": "Pierce",
+        "Type": "1P Pierce",
         "Image": "rbxassetid://17802016570",
         "Rarity": "Secret",
         "PlacePrice": 7500,
@@ -655,7 +655,7 @@
         ]
     },
     "Withered Golden Freddy": {
-        "Type": "Premium Single",
+        "Type": "3P Premium Single",
         "Image": "rbxassetid://16781122207",
         "Rarity": "Nightmare",
         "PlacePrice": 3000,
@@ -699,7 +699,7 @@
         ]
     },
     "Endo": {
-        "Type": "Damage Booster",
+        "Type": "2P Damage Booster",
         "Image": "rbxassetid://17851638702",
         "Rarity": "Secret",
         "PlacePrice": 1000,
@@ -742,7 +742,7 @@
         ]
     },
     "Endo 02": {
-        "Type": "Single",
+        "Type": "4P Single",
         "Image": "rbxassetid://17690383931",
         "Rarity": "Secret",
         "PlacePrice": 350,
@@ -781,7 +781,7 @@
         ]
     },
     "Plane Boy": {
-        "Type": "Premium Single",
+        "Type": "2P Premium Single",
         "Image": "rbxassetid://17689713814",
         "Rarity": "Secret",
         "PlacePrice": 15000,
@@ -826,7 +826,7 @@
         ]
     },
     "Rockin Bonnie": {
-        "Type": "Premium Full AOE",
+        "Type": "3P Premium Full AOE",
         "Image": "rbxassetid://17689695988",
         "Rarity": "Secret",
         "PlacePrice": 450,
@@ -870,7 +870,7 @@
         ]
     },
     "Pirate Withered Foxy": {
-        "Type": "Premium Single",
+        "Type": "3P Premium Single",
         "Image": "rbxassetid://17851205149",
         "Rarity": "Secret",
         "PlacePrice": 400,
@@ -915,7 +915,7 @@
         ]
     },
     "Marionette's Puppeteer": {
-        "Type": "Full AOE",
+        "Type": "2P Full AOE",
         "Image": "rbxassetid://18151575297",
         "Rarity": "Nightmare",
         "PlacePrice": 10000,
@@ -954,7 +954,7 @@
         ]
     },
     "Blighted Endo Freddy": {
-        "Type": "Full AOE",
+        "Type": "2P Full AOE",
         "Image": "rbxassetid://18151573285",
         "Rarity": "Nightmare",
         "PlacePrice": 10000,
@@ -992,7 +992,7 @@
         ]
     },
     "Baker Toy Chica": {
-        "Type": "Splash",
+        "Type": "3P Splash",
         "Image": "rbxassetid://18161347460",
         "Rarity": "Epic",
         "PlacePrice": 800,
@@ -1030,7 +1030,7 @@
         ]
     },
     "Summer Toy Bonnie": {
-        "Type": "Single Slow",
+        "Type": "3P Single 30% Slow",
         "Image": "rbxassetid://18255590026",
         "Rarity": "Rare",
         "PlacePrice": 800,
@@ -1077,7 +1077,7 @@
         ]
     },
     "Coco Boy": {
-        "Type": "Splash",
+        "Type": "3P Splash",
         "Image": "rbxassetid://18256042312",
         "Rarity": "Mythic",
         "PlacePrice": 6000,
@@ -1115,7 +1115,7 @@
         ]
     },
     "Vendor Toy Chica": {
-        "Type": "Splash",
+        "Type": "2P Splash",
         "Image": "rbxassetid://18256363652",
         "Rarity": "Mythic",
         "PlacePrice": 2000,
@@ -1154,7 +1154,7 @@
         ]
     },
     "Seven Seas Foxy": {
-        "Type": "Piercing",
+        "Type": "2P Pierce",
         "Image": "rbxassetid://18255813345",
         "Rarity": "Secret",
         "PlacePrice": 7000,
@@ -1193,7 +1193,7 @@
         ]
     },
     "Leviathan Mangle": {
-        "Type": "Pierce",
+        "Type": "2P Pierce",
         "Image": "rbxassetid://18256011276",
         "Rarity": "Nightmare",
         "PlacePrice": 20000,
@@ -1231,7 +1231,7 @@
         ]
     },
     "Algae FredBear": {
-        "Type": "Single",
+        "Type": "2P Single",
         "Image": "rbxassetid://18255264349",
         "Rarity": "Nightmare",
         "PlacePrice": 30000,
@@ -1269,7 +1269,7 @@
         ]
     },
     "UNC Fredbear": {
-        "Type": "Cone Aoe",
+        "Type": "2P Cone Aoe",
         "Image": "rbxassetid://99535301933789",
         "Rarity": "Nightmare",
         "PlacePrice": 8500,
@@ -1307,7 +1307,7 @@
         ]
     },
     "Bear-V": {
-        "Type": "Cone Aoe",
+        "Type": "1P Cone Aoe",
         "Image": "rbxassetid://87005050997371",
         "Rarity": "Nightmare",
         "PlacePrice": 4444,
@@ -1345,7 +1345,7 @@
         ]
     },
     "Hawaii Endo 02": {
-        "Type": "Range Booster",
+        "Type": "2P Range Booster",
         "Image": "rbxassetid://18255863130",
         "Rarity": "Epic",
         "PlacePrice": 1000,
@@ -1388,7 +1388,7 @@
         ]
     },
       "Sun Bathing Toy Chica": {
-        "Type": "Cooldown + Range Booster",
+        "Type": "2P Cooldown + Range Booster",
         "Image": "rbxassetid://101562420633845",
         "Rarity": "Secret",
         "PlacePrice": 1500,
@@ -1435,7 +1435,7 @@
         ]
     },
     "Rad Freddy": {
-        "Type": "Premium Single",
+        "Type": "3P Premium Single",
         "Image": "rbxassetid://18258392627",
         "Rarity": "Secret",
         "PlacePrice": 2000,
@@ -1480,7 +1480,7 @@
         ]
     },
     "Patriot Freddy": {
-        "Type": "Splash",
+        "Type": "3P Splash",
         "Image": "rbxassetid://18326604996",
         "Rarity": "Secret",
         "PlacePrice": 500,
@@ -1520,7 +1520,7 @@
     },
 
     "SpringTrap": {
-        "Type": "Pierce",
+        "Type": "1P Pierce",
         "Image": "rbxassetid://18356146630",
         "Rarity": "Nightmare",
         "PlacePrice": 12500,
@@ -1534,31 +1534,31 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 1000,
+                "Damage": 2000,
                 "Cooldown": 2.5
             },
             {
                 "Price": 20000,
                 "Range": 20,
-                "Damage": 1500,
+                "Damage": 2500,
                 "Cooldown": 2
             },
             {
                 "Price": 35000,
                 "Range": 25,
-                "Damage": 2000,
+                "Damage": 3000,
                 "Cooldown": 1.5
             },
             {
                 "Price": 50000,
                 "Range": 30,
-                "Damage": 2500,
+                "Damage": 3500,
                 "Cooldown": 0.8
             }
         ]
     },
     "Endo 03": {
-        "Type": "Single",
+        "Type": "5P Single",
         "Image": "rbxassetid://18363471703",
         "Rarity": "Epic",
         "PlacePrice": 2000,
@@ -1596,7 +1596,7 @@
         ]
     },
     "Phantom Foxy": {
-        "Type": "Single",
+        "Type": "3P Single",
         "Image": "rbxassetid://18356274992",
         "Rarity": "Rare",
         "PlacePrice": 650,
@@ -1634,7 +1634,7 @@
         ]
     },
     "Phantom Chica": {
-        "Type": "Splash",
+        "Type": "2P Splash",
         "Image": "rbxassetid://18356356760",
         "Rarity": "Secret",
         "PlacePrice": 15000,
@@ -1672,7 +1672,7 @@
         ]
     },
     "Phantom Freddy": {
-        "Type": "Single",
+        "Type": "3P Single",
         "Image": "rbxassetid://18363498934",
         "Rarity": "Secret",
         "PlacePrice": 25000,
@@ -1710,7 +1710,7 @@
         ]
     },
     "Phantom Balloon Boy": {
-        "Type": "Nuke",
+        "Type": "3P Nuke",
         "Image": "rbxassetid://18356472602",
         "Rarity": "Secret",
         "PlacePrice": 7500,
@@ -1748,7 +1748,7 @@
         ]
     },
     "Phantom Gold Freddy": {
-        "Type": "Single",
+        "Type": "2P Single",
         "Image": "rbxassetid://18363517791",
         "Rarity": "Mythic",
         "PlacePrice": 4000,
@@ -1786,7 +1786,7 @@
         ]
     },
     "FazCade": {
-        "Type": "Farm",
+        "Type": "3P Farm",
         "Image": "rbxassetid://18363529003",
         "Rarity": "Epic",
         "PlacePrice": 1000,
@@ -1829,7 +1829,7 @@
         ]
     },
     "Phantom Mangle": {
-        "Type": "Single",
+        "Type": "3P Single",
         "Image": "rbxassetid://18363533024",
         "Rarity": "Nightmare",
         "PlacePrice": 20000,
@@ -1867,7 +1867,7 @@
         ]
     },
     "Phantom Cupcake": {
-        "Type": "Single",
+        "Type": "4P Single",
         "Image": "rbxassetid://18363537562",
         "Rarity": "Secret",
         "PlacePrice": 80,
@@ -1905,7 +1905,7 @@
         ]
     },
     "Amalgam": {
-        "Type": "Single Slow",
+        "Type": "2P Single 40% Slow",
         "Image": "rbxassetid://18363541545",
         "Rarity": "Epic",
         "PlacePrice": 3000,
@@ -1947,7 +1947,7 @@
         ]
     },
     "Phantom Puppet": {
-        "Type": "Piercing",
+        "Type": "2P Pierce",
         "Image": "rbxassetid://18363546528",
         "Rarity": "Secret",
         "PlacePrice": 15000,
@@ -1985,7 +1985,7 @@
         ]
     },
     "Spring Bonnie": {
-        "Type": "Damage Booster",
+        "Type": "2P Damage Booster",
         "Image": "rbxassetid://18364574191",
         "Rarity": "Secret",
         "PlacePrice": 1500,
@@ -2028,7 +2028,7 @@
         ]
     },
     "Bounded Shadow": {
-        "Type": "Pierce",
+        "Type": "2P Pierce",
         "Image": "rbxassetid://18363555442",
         "Rarity": "Nightmare",
         "PlacePrice": 17500,
@@ -2066,7 +2066,7 @@
         ]
     },
     "Sentinel Bonnie": {
-        "Type": "Premium Single",
+        "Type": "2P Premium Single",
         "Image": "rbxassetid://18363569957",
         "Rarity": "Nightmare",
         "PlacePrice": 5000,
@@ -2111,7 +2111,7 @@
         ]
     },
     "War Machine Foxy": {
-        "Type": "Single",
+        "Type": "1P Single",
         "Image": "rbxassetid://18363581536",
         "Rarity": "Secret",
         "PlacePrice": 4000,
@@ -2150,7 +2150,7 @@
         ]
     },
     "Sniper Cupcake": {
-        "Type": "Single",
+        "Type": "3P Single",
         "Image": "rbxassetid://18364281117",
         "Rarity": "Rare",
         "PlacePrice": 800,
@@ -2189,7 +2189,7 @@
         ]
     },
     "Witch Toy Chica": {
-        "Type": "Premium Poison",
+        "Type": "3P Premium 20% Poison",
         "Image": "rbxassetid://18363391561",
         "Rarity": "Secret",
         "PlacePrice": 500,
@@ -2238,13 +2238,13 @@
                 "Range": 30,
                 "Damage": 300,
                 "Cooldown": 2,
-                "Poison": 50,
+                "Poison": 60,
                 "PoisonLength": 6.5
             }
         ]
     },
     "Abyssal Foxy": {
-        "Type": "Single Slow",
+        "Type": "2P Single 50% Slow",
         "Image": "rbxassetid://18578478327",
         "Rarity": "Nightmare",
         "PlacePrice": 35000,
