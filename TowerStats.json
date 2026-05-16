@@ -909,7 +909,7 @@
             {
                 "Price": 1250,
                 "Range": 25,
-                "Damage": 65,
+                "Damage": 75,
                 "Cooldown": 0.2
             }
         ]
