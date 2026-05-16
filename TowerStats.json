@@ -1672,11 +1672,11 @@
         ]
     },
     "Phantom Freddy": {
-        "Type": "3P Single",
+        "Type": "InfP Single",
         "Image": "rbxassetid://18363498934",
         "Rarity": "Secret",
         "PlacePrice": 0,
-        "Max": 3,
+        "Max": 20,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
