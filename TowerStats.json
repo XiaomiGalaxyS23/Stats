@@ -1435,11 +1435,11 @@
         ]
     },
     "Rad Freddy": {
-        "Type": "3P Premium Single",
+        "Type": "2P Premium Single",
         "Image": "rbxassetid://18258392627",
         "Rarity": "Secret",
-        "PlacePrice": 2000,
-        "Max": 3,
+        "PlacePrice": 950,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1454,25 +1454,25 @@
                 "Cooldown": 4.5
             },
             {
-                "Price": 800,
+                "Price": 1000,
                 "Range": 38,
                 "Damage": 750,
                 "Cooldown": 4.25
             },
             {
-                "Price": 1000,
+                "Price": 1200,
                 "Range": 41,
                 "Damage": 850,
                 "Cooldown": 4
             },
             {
-                "Price": 1400,
+                "Price": 1600,
                 "Range": 43,
                 "Damage": 1000,
                 "Cooldown": 3.5
             },
             {
-                "Price": 1700,
+                "Price": 1900,
                 "Range": 45,
                 "Damage": 1200,
                 "Cooldown": 3
