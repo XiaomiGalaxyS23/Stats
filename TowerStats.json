@@ -1672,7 +1672,7 @@
         ]
     },
     "Phantom Freddy": {
-        "Type": "InfP AOE Poison Passive Spawner",
+        "Type": "3P Single",
         "Image": "rbxassetid://18363498934",
         "Rarity": "Secret",
         "PlacePrice": 0,
@@ -1703,9 +1703,9 @@
             },
             {
                 "Price": 87000,
-                "Range": 999,
-                "Damage": 2500,
-                "Cooldown": 0.001
+                "Range": 30,
+                "Damage": 50,
+                "Cooldown": 0.05
             }
         ]
     },
