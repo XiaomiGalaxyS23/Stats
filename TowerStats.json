@@ -1051,7 +1051,7 @@
                 "SlowTime": 1.05
             },
             {
-                "Price": 1200,
+                "Price": 2200,
                 "Range": 14,
                 "Damage": 100,
                 "Cooldown": 0.9,
@@ -1059,7 +1059,7 @@
                 "SlowTime": 1.05
             },
             {
-                "Price": 1600,
+                "Price": 2600,
                 "Range": 14,
                 "Damage": 150,
                 "Cooldown": 0.85,
@@ -1067,7 +1067,7 @@
                 "SlowTime": 1.05
             },
             {
-                "Price": 2000,
+                "Price": 3000,
                 "Range": 15,
                 "Damage": 200,
                 "Cooldown": 0.75,
@@ -1175,19 +1175,19 @@
             {
                 "Price": 10000,
                 "Range": 12,
-                "Damage": 1000,
+                "Damage": 850,
                 "Cooldown": 2.5
             },
             {
                 "Price": 15000,
                 "Range": 14,
-                "Damage": 1500,
+                "Damage": 1000,
                 "Cooldown": 2
             },
             {
                 "Price": 25000,
                 "Range": 16,
-                "Damage": 2000,
+                "Damage": 1250,
                 "Cooldown": 2
             }
         ]
@@ -1225,8 +1225,8 @@
             {
                 "Price": 60000,
                 "Range": 22,
-                "Damage": 1550,
-                "Cooldown": 0.5
+                "Damage": 900,
+                "Cooldown": 0.75
             }
         ]
     },
@@ -1262,7 +1262,7 @@
             },
             {
                 "Price": 90000,
-                "Range": 18,
+                "Range": 15,
                 "Damage": 1500,
                 "Cooldown": 0.4
             }
@@ -1345,7 +1345,7 @@
         ]
     },
     "Hawaii Endo 02": {
-        "Type": "2P 25% Range Booster",
+        "Type": "2P 22% Range Booster",
         "Image": "rbxassetid://18255863130",
         "Rarity": "Epic",
         "PlacePrice": 1000,
