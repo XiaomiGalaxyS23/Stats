@@ -812,13 +812,13 @@
                 "Cooldown": 0.05
             },
             {
-                "Price": 35000,
+                "Price": 30000,
                 "Range": 40,
                 "Damage": 75,
                 "Cooldown": 0.05
             },
             {
-                "Price": 40000,
+                "Price": 35000,
                 "Range": 45,
                 "Damage": 85,
                 "Cooldown": 0.05
