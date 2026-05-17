@@ -1774,13 +1774,13 @@
             {
                 "Price": 7000,
                 "Range": 15,
-                "Damage": 650,
+                "Damage": 600,
                 "Cooldown": 1.6
             },
             {
                 "Price": 11000,
                 "Range": 18,
-                "Damage": 750,
+                "Damage": 800,
                 "Cooldown": 1.4
             }
         ]
