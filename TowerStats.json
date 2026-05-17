@@ -1179,13 +1179,13 @@
                 "Cooldown": 2.5
             },
             {
-                "Price": 20000,
+                "Price": 15000,
                 "Range": 14,
                 "Damage": 1500,
                 "Cooldown": 2
             },
             {
-                "Price": 30000,
+                "Price": 25000,
                 "Range": 16,
                 "Damage": 2000,
                 "Cooldown": 2
